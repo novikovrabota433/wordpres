@@ -1,2 +1,2 @@
-# js-homework-1
+# js-homework-укук
 дз по основам js
