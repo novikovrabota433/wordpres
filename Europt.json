@@ -1,0 +1,13 @@
+[{
+        "id": "1",
+        "adress": "Priluki 2a",
+        "srednee": "9000",
+        "square": "2000",
+        "build": "2009"
+}, {    
+        "id": "2",
+        "adress": "Priluki 4a",
+        "srednee": "4000",
+        "square": "1000",
+        "build": "2015"
+}]

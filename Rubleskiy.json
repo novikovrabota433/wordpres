@@ -1,0 +1,11 @@
+[{
+        "adress": "Jukova 2a",
+        "srednee": "400",
+        "square": "800",
+        "build": "1980"
+}, {
+        "adress": "Jukova 4a",
+        "srednee": "10000",
+        "square": "3000",
+        "build": "2020"
+}]

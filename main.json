@@ -1,0 +1,13 @@
+[{
+    "id": "1",
+    "name": "Europt",
+    "state": "1990",
+    "descript": "Много картошки, сало килограмм",
+    "jsonadress" : "Хранится в той же папке что и main.json"
+}, {
+    "id": "2",
+    "name": "Rubleskiy",
+    "state": "1993",
+    "descript": "Есть отдел дестких игрушек",
+    "jsonadress" : "Хранится в той же папке что и main.json"
+}]
