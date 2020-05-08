@@ -1,0 +1,38 @@
+#start{
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    margin: 0 auto;
+    
+}
+
+#start{
+    border: 1px solid;
+    border-color: rgb(187, 179, 179);
+}
+
+#error{
+    border-color: brown;
+    display: flex;
+    flex-direction: column;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(231, 225, 225);
+}
+
+#results{
+    display: flex;
+    margin-left: 70px;
+}
+
+
+#results2 div{
+    display: flex;
+    margin: 10px;
+    border: solid rgb(167, 139, 139) 1px;
+}
+
+
